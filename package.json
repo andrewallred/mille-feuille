@@ -7,11 +7,13 @@
     "start": "node app.js"
   },
   "author": "",
-  "engines" : { "node" : "v12.16.2" },
+  "engines": {
+    "node": "v12.16.2"
+  },
   "license": "ISC",
   "dependencies": {
     "dotenv": "^8.2.0",
-    "mongodb": "^3.5.9",
+    "mongodb": "^3.6.1",
     "twit": "^2.2.11",
     "twitter": "^1.7.1"
   }
